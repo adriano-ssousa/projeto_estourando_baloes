@@ -1,2 +1,2 @@
 # projeto_estourando_baloes
-Projeto criado seguindo curso de Desenvolvimento Web da Udemy
+Projeto realizado para o aprendizado de Javascript, através do curso de Desenvolvimento Web da Udemy.
